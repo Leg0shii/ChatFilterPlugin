@@ -1,0 +1,6 @@
+name: Main
+version: ${project.version}
+main: de.legoshi.chatfilter.Main
+
+commands:
+  chatfilter:
